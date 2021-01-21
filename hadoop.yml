@@ -1,6 +1,6 @@
 #Configure Master and Slave Nodes
 
-- hosts: Master,Slave
+- hosts: Master,Slave,localhost
 
   tasks:
 
