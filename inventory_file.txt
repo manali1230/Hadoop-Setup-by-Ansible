@@ -1,0 +1,5 @@
+[Master]
+192.168.0.227 ansible_user=root ansible_ssh_pass=**** ansible_connection=ssh
+
+[Slave]
+192.168.0.165 ansible_user=root ansible_ssh_pass=**** ansible_connection=ssh
